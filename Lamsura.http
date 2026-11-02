@@ -1,0 +1,6 @@
+@Lamsura_HostAddress = http://localhost:5232
+
+GET {{Lamsura_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
